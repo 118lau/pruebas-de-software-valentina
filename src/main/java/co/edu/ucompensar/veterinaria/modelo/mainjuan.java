@@ -1,7 +1,7 @@
 package co.edu.ucompensar.veterinaria.modelo;
 
 public class mainjuan {
-    //comentario para prueba
+    //comentario para prueba noi se que hacer ayudaaaaaaaaaaaaaa
 
 
 }
